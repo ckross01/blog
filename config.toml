@@ -1,7 +1,7 @@
 baseURL = "https://ckross01.com"
 languageCode = "en-us"
 title = "Ckross01 Blog"
-theme = "m10c"
+theme = "https://github.com/vaga/hugo-theme-m10c.git"
 
 [params]
   author = "Chris Ross"
