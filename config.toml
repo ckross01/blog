@@ -1,7 +1,7 @@
-baseURL = "http://example.org/"
+baseURL = "https://ckross01.com"
 languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "m10c"
+title = "Ckross01 Blog"
+theme = "https://github.com/vaga/hugo-theme-m10c.git"
 
 [params]
   author = "Chris Ross"
